@@ -1,0 +1,29 @@
+
+BASELINE BERTOPIC PARAMETERS:
+- Embedding model: Default (all-MiniLM-L6-v2)
+- UMAP: Custom configuration with fixed random state
+    • n_neighbors = 15
+    • n_components = 5
+    • min_dist = 0.0
+    • metric = cosine
+    • random_state = 42
+- HDBSCAN: Lightly tuned for cluster stability
+    • min_cluster_size = 40
+    • min_samples = 5
+    • metric = euclidean
+    • cluster_selection_method = EOM
+- Vectorizer: Stopword-filtered CountVectorizer
+    • stop_words = english
+    • ngram_range = (1, 2)
+    • min_df = 5
+- Min topic size: 10 (default)
+- Calculate probabilities: False (for speed)
+
+RATIONALE:
+This baseline reflects a stabilised configuration following minimal document-level
+cleaning and exploratory diagnostic runs. Light tuning of the clustering parameters
+was applied to balance topic granularity and stability, while a fixed UMAP random
+state ensures reproducibility across runs. Topic representation was refined using a
+stopword-filtered vectorizer to improve interpretability without altering document
+embeddings, clustering, or topic assignments. This configuration provides a
+defensible reference point for evaluation and comparison with alternative models.

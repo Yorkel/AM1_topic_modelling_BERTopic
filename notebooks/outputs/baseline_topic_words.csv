@@ -1,0 +1,241 @@
+topic,topic_label,word,score
+0,Ofsted inspections and accountability,ofsted,0.05053771092655735
+0,Ofsted inspections and accountability,inspection,0.03436379688572344
+0,Ofsted inspections and accountability,inspections,0.024722486275648
+0,Ofsted inspections and accountability,inspectors,0.024086608951740376
+0,Ofsted inspections and accountability,said,0.021634059923978065
+0,Ofsted inspections and accountability,schools,0.020742170475793322
+0,Ofsted inspections and accountability,school,0.020609233925061643
+0,Ofsted inspections and accountability,report,0.015065271251958817
+0,Ofsted inspections and accountability,inspector,0.01461965315084294
+0,Ofsted inspections and accountability,leaders,0.013939114728608754
+1,Pupil attainment and exam results,students,0.026638038535152876
+1,Pupil attainment and exam results,results,0.0257889608790274
+1,Pupil attainment and exam results,year,0.025064102784575222
+1,Pupil attainment and exam results,pupils,0.023766263236293234
+1,Pupil attainment and exam results,grades,0.022977055197350296
+1,Pupil attainment and exam results,ofqual,0.020462766015920255
+1,Pupil attainment and exam results,grade,0.020303307586254163
+1,Pupil attainment and exam results,gcse,0.020207202075282142
+1,Pupil attainment and exam results,cent,0.01864343395201169
+1,Pupil attainment and exam results,maths,0.018293645041547086
+2,Teacher recruitment and workforce supply,teachers,0.042851212090473934
+2,Teacher recruitment and workforce supply,teacher,0.030894425798547186
+2,Teacher recruitment and workforce supply,cent,0.02654045901523714
+2,Teacher recruitment and workforce supply,recruitment,0.02435819227350303
+2,Teacher recruitment and workforce supply,teaching,0.020237606865952086
+2,Teacher recruitment and workforce supply,said,0.019518195828158745
+2,Teacher recruitment and workforce supply,year,0.01920469513895261
+2,Teacher recruitment and workforce supply,retention,0.017280979584903426
+2,Teacher recruitment and workforce supply,training,0.01727824447810521
+2,Teacher recruitment and workforce supply,government,0.014817598526713781
+3,Special educational needs and SEND provision,send,0.03666640449382525
+3,Special educational needs and SEND provision,schools,0.024441874138883296
+3,Special educational needs and SEND provision,children,0.024328660777379732
+3,Special educational needs and SEND provision,special,0.02345134740015535
+3,Special educational needs and SEND provision,needs,0.023088375191498332
+3,Special educational needs and SEND provision,said,0.01962479085560469
+3,Special educational needs and SEND provision,support,0.018038892889569953
+3,Special educational needs and SEND provision,mainstream,0.017472234833228892
+3,Special educational needs and SEND provision,councils,0.01643613545298416
+3,Special educational needs and SEND provision,provision,0.016039196530296226
+4,Academy trusts and school governance,trust,0.045555057628193646
+4,Academy trusts and school governance,trusts,0.03703673470204428
+4,Academy trusts and school governance,schools,0.027954254825427592
+4,Academy trusts and school governance,academies,0.022276903282151077
+4,Academy trusts and school governance,academy,0.021552250199255968
+4,Academy trusts and school governance,said,0.018812441181340445
+4,Academy trusts and school governance,school,0.017307562645983803
+4,Academy trusts and school governance,ceo,0.01648121430927596
+4,Academy trusts and school governance,mats,0.015397373701251436
+4,Academy trusts and school governance,education,0.01322250011490464
+5,School buildings and RAAC safety,raac,0.04400348345357247
+5,School buildings and RAAC safety,schools,0.033594294359720715
+5,School buildings and RAAC safety,buildings,0.030589452974773317
+5,School buildings and RAAC safety,school,0.024568398893629793
+5,School buildings and RAAC safety,dfe,0.021083892263063595
+5,School buildings and RAAC safety,said,0.02006247256784103
+5,School buildings and RAAC safety,government,0.018845821658174434
+5,School buildings and RAAC safety,funding,0.01650725477239136
+5,School buildings and RAAC safety,building,0.015955299295987515
+5,School buildings and RAAC safety,department,0.015675370555638182
+6,Guidance for schools and children,children,0.030933433836707547
+6,Guidance for schools and children,guidance,0.023520250339395154
+6,Guidance for schools and children,school,0.02192050829434726
+6,Guidance for schools and children,schools,0.021766564228789566
+6,Guidance for schools and children,parents,0.021051437009668095
+6,Guidance for schools and children,said,0.01929339794373826
+6,Guidance for schools and children,home,0.01723727620654352
+6,Guidance for schools and children,education,0.01698448960572403
+6,Guidance for schools and children,child,0.01569410182101749
+6,Guidance for schools and children,staff,0.012169251326719359
+7,Pupil attendance and absence,absence,0.0820690672266081
+7,Pupil attendance and absence,attendance,0.05228617480221687
+7,Pupil attendance and absence,pupils,0.04743162705595857
+7,Pupil attendance and absence,year,0.03169054272385321
+7,Pupil attendance and absence,absent,0.022948775681273396
+7,Pupil attendance and absence,sessions,0.022779710143032376
+7,Pupil attendance and absence,rates,0.02229283898549611
+7,Pupil attendance and absence,persistent,0.021996686260909153
+7,Pupil attendance and absence,school,0.021000465101397286
+7,Pupil attendance and absence,autumn,0.02028785757450013
+8,Academy trust statements and responses,trust,0.05317743357112088
+8,Academy trust statements and responses,trusts,0.04507899945591866
+8,Academy trust statements and responses,academy,0.02412401273136974
+8,Academy trust statements and responses,said,0.02315431156002773
+8,Academy trust statements and responses,cent,0.02012103991332018
+8,Academy trust statements and responses,schools,0.019621771355157303
+8,Academy trust statements and responses,pay,0.016862430988171577
+8,Academy trust statements and responses,reserves,0.016646273393891416
+8,Academy trust statements and responses,funding,0.016281743513155
+8,Academy trust statements and responses,financial,0.015942655464856917
+9,DfE intervention and academy warnings,notice,0.1895879054679076
+9,DfE intervention and academy warnings,warning,0.09042294811295233
+9,DfE intervention and academy warnings,dfe regional,0.08890248801900202
+9,DfE intervention and academy warnings,academy,0.08657846922688643
+9,DfE intervention and academy warnings,regional director,0.08416034190880958
+9,DfE intervention and academy warnings,print content,0.07692038125106279
+9,DfE intervention and academy warnings,trust,0.07564522722309044
+9,DfE intervention and academy warnings,issued,0.07422551247228508
+9,DfE intervention and academy warnings,notices,0.0739829507946127
+9,DfE intervention and academy warnings,improve,0.06926075465036187
+10,"Teacher pay, unions, and industrial action",union,0.049152545480866616
+10,"Teacher pay, unions, and industrial action",pay,0.0461494171345272
+10,"Teacher pay, unions, and industrial action",members,0.04609952037078483
+10,"Teacher pay, unions, and industrial action",action,0.04560304592804362
+10,"Teacher pay, unions, and industrial action",strike,0.04154407796165895
+10,"Teacher pay, unions, and industrial action",ballot,0.036971737074073155
+10,"Teacher pay, unions, and industrial action",neu,0.03461056264996883
+10,"Teacher pay, unions, and industrial action",unions,0.027004809433417595
+10,"Teacher pay, unions, and industrial action",teachers,0.02554932722125661
+10,"Teacher pay, unions, and industrial action",strikes,0.024825203181693293
+11,Free school meals and breakfast provision,free,0.03980073220668671
+11,Free school meals and breakfast provision,breakfast,0.03822005502924164
+11,Free school meals and breakfast provision,food,0.03601839817015077
+11,Free school meals and breakfast provision,meals,0.03587106033610849
+11,Free school meals and breakfast provision,poverty,0.029804677897628445
+11,Free school meals and breakfast provision,children,0.028088442784565376
+11,Free school meals and breakfast provision,school,0.02808243308329982
+11,Free school meals and breakfast provision,free school,0.024947600455220303
+11,Free school meals and breakfast provision,school meals,0.0243937382284079
+11,Free school meals and breakfast provision,clubs,0.022732047851723575
+12,School funding and education budgets,funding,0.04213315693126673
+12,School funding and education budgets,schools,0.02300276461370713
+12,School funding and education budgets,cent,0.019983927213560307
+12,School funding and education budgets,billion,0.01906941436001722
+12,School funding and education budgets,year,0.01779380899655947
+12,School funding and education budgets,government,0.01701540453592442
+12,School funding and education budgets,spending,0.016631497884230375
+12,School funding and education budgets,said,0.016502926031226307
+12,School funding and education budgets,school,0.01643436015041976
+12,School funding and education budgets,budget,0.015827799667822294
+13,"Skills, apprenticeships, and employment pathways",skills,0.06402780075209492
+13,"Skills, apprenticeships, and employment pathways",apprenticeship,0.045364913758171393
+13,"Skills, apprenticeships, and employment pathways",apprenticeships,0.04225630195313455
+13,"Skills, apprenticeships, and employment pathways",employers,0.030473128545418535
+13,"Skills, apprenticeships, and employment pathways",apprentices,0.029417317894574944
+13,"Skills, apprenticeships, and employment pathways",training,0.0250254397300532
+13,"Skills, apprenticeships, and employment pathways",people,0.0242028602228488
+13,"Skills, apprenticeships, and employment pathways",degree,0.021992489674691564
+13,"Skills, apprenticeships, and employment pathways",education,0.016615280741358356
+13,"Skills, apprenticeships, and employment pathways",new,0.014536743154144941
+14,Education research and evidence foundations,research,0.052195483079634786
+14,Education research and evidence foundations,justice,0.049235781653241835
+14,Education research and evidence foundations,foundation,0.04299529189330166
+14,Education research and evidence foundations,nuffield,0.04210487283114169
+14,Education research and evidence foundations,nuffield foundation,0.02684600516845786
+14,Education research and evidence foundations,people,0.026187187067093658
+14,Education research and evidence foundations,project,0.025929592676712916
+14,Education research and evidence foundations,social,0.02406464976897219
+14,Education research and evidence foundations,uk,0.020080050943228494
+14,Education research and evidence foundations,policy,0.018341219350519383
+15,AI and digital technology in education,ai,0.10224839455530173
+15,AI and digital technology in education,technology,0.036848759563874504
+15,AI and digital technology in education,teachers,0.026537074261581
+15,AI and digital technology in education,use,0.02623468211130594
+15,AI and digital technology in education,digital,0.021102588342997268
+15,AI and digital technology in education,tools,0.021000887634625844
+15,AI and digital technology in education,education,0.019995640520620528
+15,AI and digital technology in education,students,0.016726787108814648
+15,AI and digital technology in education,edtech,0.01658088912994954
+15,AI and digital technology in education,help,0.016474156963017756
+16,Teachers’ pay review and STRB,pay,0.08426907069532925
+16,Teachers’ pay review and STRB,strb,0.03819736803361754
+16,Teachers’ pay review and STRB,teachers,0.034248433325479825
+16,Teachers’ pay review and STRB,government,0.026364516597486096
+16,Teachers’ pay review and STRB,rise,0.026160362769008395
+16,Teachers’ pay review and STRB,cent,0.025044962190314532
+16,Teachers’ pay review and STRB,said,0.02197070051215436
+16,Teachers’ pay review and STRB,year,0.0198581884628606
+16,Teachers’ pay review and STRB,pay rise,0.019362087645368974
+16,Teachers’ pay review and STRB,body,0.019235552457128102
+17,Local authorities and education oversight,education skills,0.12327226264900198
+17,Local authorities and education oversight,school academy,0.1213955633818327
+17,Local authorities and education oversight,authorities,0.10881259855516555
+17,Local authorities and education oversight,local authorities,0.10527050764853127
+17,Local authorities and education oversight,education,0.09616140938595236
+17,Local authorities and education oversight,academies,0.08745845044566458
+17,Local authorities and education oversight,funding,0.08379016801709771
+17,Local authorities and education oversight,skills,0.0828076484710888
+17,Local authorities and education oversight,academies schools,0.08008241805092976
+17,Local authorities and education oversight,local,0.08005858401271157
+18,Education ministers and political leadership,minister,0.03794722300025218
+18,Education ministers and political leadership,education,0.03630316210482057
+18,Education ministers and political leadership,labour,0.02553726057318453
+18,Education ministers and political leadership,role,0.021690798091222513
+18,Education ministers and political leadership,mp,0.02117989657474075
+18,Education ministers and political leadership,shadow,0.021127138602896046
+18,Education ministers and political leadership,gibb,0.01963058899656524
+18,Education ministers and political leadership,secretary,0.0193448514556071
+18,Education ministers and political leadership,party,0.01776681127597699
+18,Education ministers and political leadership,committee,0.01725086068893206
+19,Education leadership and professional development,education,0.047941663771631525
+19,Education leadership and professional development,fed,0.033367953514692225
+19,Education leadership and professional development,leadership,0.016782817189332385
+19,Education leadership and professional development,world,0.016281760431069443
+19,Education leadership and professional development,learning,0.016055963045168094
+19,Education leadership and professional development,leaders,0.01578452614627097
+19,Education leadership and professional development,learners,0.01506332676288494
+19,Education leadership and professional development,school,0.01505775543951304
+19,Education leadership and professional development,development,0.014760731659120237
+19,Education leadership and professional development,bolton,0.014604835910148047
+20,SEND funding pressures and council deficits,councils,0.04707867395998649
+20,SEND funding pressures and council deficits,council,0.03766074747578267
+20,SEND funding pressures and council deficits,send,0.03347802717619462
+20,SEND funding pressures and council deficits,deficits,0.029481480690727375
+20,SEND funding pressures and council deficits,valve,0.028107344975637313
+20,SEND funding pressures and council deficits,safety valve,0.027775113176610074
+20,SEND funding pressures and council deficits,million,0.024412822211746354
+20,SEND funding pressures and council deficits,transport,0.024038298962651673
+20,SEND funding pressures and council deficits,safety,0.023430707805635317
+20,SEND funding pressures and council deficits,said,0.022225538333588892
+21,Pupil suspensions and exclusions,pupils,0.06913532324690153
+21,Pupil suspensions and exclusions,suspensions,0.04553721238582354
+21,Pupil suspensions and exclusions,exclusion,0.044667113526850905
+21,Pupil suspensions and exclusions,suspension,0.03960538496510664
+21,Pupil suspensions and exclusions,excluded,0.03425057217788425
+21,Pupil suspensions and exclusions,ap,0.032492363662181764
+21,Pupil suspensions and exclusions,exclusions,0.03065447628105018
+21,Pupil suspensions and exclusions,suspended,0.029604523479078534
+21,Pupil suspensions and exclusions,year,0.02842978189740107
+21,Pupil suspensions and exclusions,rate,0.028275950547131248
+22,Qualifications reform and T Levels,qualifications,0.062440014943002844
+22,Qualifications reform and T Levels,students,0.051770316597235085
+22,Qualifications reform and T Levels,tlevels,0.04626259941080715
+22,Qualifications reform and T Levels,tlevel,0.03893371999158607
+22,Qualifications reform and T Levels,level,0.03566127632228238
+22,Qualifications reform and T Levels,colleges,0.02106323108152256
+22,Qualifications reform and T Levels,technical,0.02098954522071106
+22,Qualifications reform and T Levels,government,0.020634264804579708
+22,Qualifications reform and T Levels,alevels,0.01982373709966895
+22,Qualifications reform and T Levels,courses,0.019628914090098495
+23,,mental,0.05859390535918378
+23,,mental health,0.05456789060718237
+23,,health,0.054169705711637005
+23,,support,0.0295798835467419
+23,,children,0.027663594377831197
+23,,services,0.0217625425736409
+23,,school,0.01930754589375663
+23,,wellbeing,0.019093922834710033
+23,,young,0.017372411207111225
+23,,air,0.016362380612289104

@@ -1,0 +1,44 @@
+
+BASELINE BERTOPIC MODEL RESULTS
+================================
+
+Training Time:
+- 4.0 minutes
+
+Model Outputs:
+- Topics discovered: 24
+- Outlier documents (topic -1): 1183 (29.8%)
+
+Topic Size Distribution:
+- Mean topic size: 116.1 documents
+- Median topic size: 77.5 documents
+- Largest topic: 436 documents
+- Smallest topic: 41 documents
+
+Data Coverage:
+- Total documents: 3970
+- Assigned to topics: 2787 
+  (70.2%)
+
+Interpretation:
+The baseline model produces a moderate number of interpretable topics with a
+non-trivial proportion of outliers. This behaviour is expected under HDBSCAN
+and reflects both the heterogeneity of the corpus and the model’s preference
+for stable, high-density clusters. Outliers likely represent cross-cutting,
+ambiguous, or low-density documents rather than modelling error.
+
+Next Steps:
+1. Review topic quality using saved visualisations
+2. Inspect representative documents per topic
+3. Identify topics for potential merging or splitting
+4. Compare topic structure to NMF results
+5. Proceed to higher-granularity BERTopic tuning
+
+Artefacts Generated:
+- models/baseline_bertopic/          (trained model)
+- outputs/baseline_topic_assignments.csv
+- outputs/baseline_topic_info.csv
+- outputs/baseline_topic_words.csv
+- outputs/baseline_topic_labels.json
+- outputs/baseline_*.html            (interactive visualisations)
+- outputs/baseline_*.png             (static plots)
